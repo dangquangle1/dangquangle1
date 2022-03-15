@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quang
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity and Computer Science
 - 📫 How to reach me: https://www.linkedin.com/in/quangle1/
 
 <!---
